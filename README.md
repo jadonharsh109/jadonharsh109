@@ -42,7 +42,7 @@
 <p>
  <img align="right" width="350" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/media/9fc49552a70631c92135e89ec16df1dd.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge related to DevOps & AWS Cloud <br/><br/>
+ ✌️ &emsp; Enjoy to do task related to DevSecOps & AWS Cloud <br/><br/>
  ❤️ &emsp; Love to writing code and learning new technologies<br/><br/>
  📧 &emsp; Reach me anytime: jadonharsh109@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/jadonharsh109/jadonharsh109/issues)
