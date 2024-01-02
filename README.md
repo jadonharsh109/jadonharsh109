@@ -14,7 +14,7 @@
   <samp>
     <a href="https://www.google.com/search?q=jadonharsh">「 Google Me 」</a>
     <br>
-    「 I am a FrontEnd, DevOps & AWS Cloud Engineer From Gwalior, Madhya Pradesh, India/b> 」
+    「 I am a FrontEnd, DevOps & AWS Cloud Engineer From Gwalior, Madhya Pradesh, <b>India 🚩</b> 」
     <br>
     <br>
   </samp>
