@@ -64,14 +64,16 @@
 ![Docker](https://img.shields.io/badge/docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=Black)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-FFFFFF?style=for-the-badge&logo=kubernetes&logoColor=Black)
 ![AWS](https://img.shields.io/badge/aws-FFFFFF?style=for-the-badge&logo=aws&logoColor=Black)
+![Terraform](https://img.shields.io/badge/Terraform-FFFFFF?style=for-the-badge&logo=Terraform&logoColor=Black)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![GitLabs](https://img.shields.io/badge/gitlab-FFFFFF?style=for-the-badge&logo=gitlab&logoColor=Black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
 
 ## Top Open Source -
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-projects)
-[![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/al-folio)
+[![Ecommerce Projects](https://github-readme-stats.vercel.app/api/pin/?username=jadonharsh109&repo=react-ecommerce-app&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jadonaharsh109/react-ecommerce-app)]
+[![DevSecOps-Complete-Project](https://github-readme-stats.vercel.app/api/pin/?username=jadonharsh109&repo=DevSecOps-Complete-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jadonaharsh109/DevSecOps-Complete-Project)
 [![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam)
 [![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam.github.io)
 
