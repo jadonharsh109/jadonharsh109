@@ -52,8 +52,8 @@
 
 ## Use To Code
 
-![Javascript](https://img.shields.io/badge/Javascript-FFFFFF?style=for-the-badge&labelColor=black&logo=javascript&logoColor=Black)
-![React](https://img.shields.io/badge/-React-FFFFFF?style=for-the-badge&labelColor=black&logo=react&logoColor=Black)
+![Javascript](https://img.shields.io/badge/Javascript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=Black)
+![React](https://img.shields.io/badge/-React-FFFFFF?style=for-the-badge&logo=react&logoColor=Black)
 ![HTML](https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=Black)
 ![CSS3](https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=Black)
 ![SASS Badge](https://img.shields.io/badge/Sass-FFFFFF?style=for-the-badge&logo=sass&logoColor=Black)
