@@ -40,17 +40,14 @@
  # About me
  
 <p>
- <img align="right" width="350" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*DluPjzT_eTUFdzHCI7JBZA.gif" alt="Coding gif" />
+ <img align="right" width="350" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/media/9fc49552a70631c92135e89ec16df1dd.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge related to DevOps & AWS Cloud <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new technologies<br/><br/>
  📧 &emsp; Reach me anytime: jadonharsh109@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/jadonharsh109/jadonharsh109/issues)
 
 </p>
-
-<br/>
-<br/>
 <br/>
 
 ## Use To Code
