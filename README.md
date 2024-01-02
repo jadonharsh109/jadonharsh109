@@ -40,7 +40,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/media/9fc49552a70631c92135e89ec16df1dd.gif" alt="Coding gif" />
+ <img align="right" width="300" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/media/9fc49552a70631c92135e89ec16df1dd.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do task related to DevSecOps & AWS Cloud <br/><br/>
  ❤️ &emsp; Love to writing code and learning new technologies<br/><br/>
