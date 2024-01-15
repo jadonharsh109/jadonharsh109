@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
- <a href="https://jadonharsh.xyz" target="blank">
+ <a href="https://jadonharsh.me" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="jadonharsh" />
  </a>
  <a href="https://linkedin.com/in/jadonharsh" target="_blank">
