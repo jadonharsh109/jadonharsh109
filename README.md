@@ -16,8 +16,6 @@
 
 </div>
 
-<br>
-
 ## About
 
 I'm a **freelance DevOps &amp; Platform Engineer**. I take platforms from an empty cloud account
@@ -31,7 +29,6 @@ systems to behave in production.
 
 <sub>AWS Certified Cloud Practitioner &nbsp;·&nbsp; Microsoft SC-900 &nbsp;·&nbsp; Microsoft AZ-900</sub>
 
-<br>
 
 ## Building — [Smriti · स्मृति](https://github.com/jadonharsh109/smriti.photos)
 
@@ -53,8 +50,6 @@ Google Photos you actually miss, with nothing ever leaving your laptop.
 ```sh
 brew install jadonharsh109/tap/smriti
 ```
-
-<br>
 
 ## Toolbox
 
@@ -123,9 +118,6 @@ brew install jadonharsh109/tap/smriti
   <img src="https://img.shields.io/badge/Qdrant-0D1117?style=flat-square&logo=qdrant&logoColor=DC244C" alt="Qdrant" />
 </p>
 
-<br>
-<br>
-
 ## Contributions
 
 <sub>Most of my work happens in client and organisation repos rather than here.</sub>
@@ -153,8 +145,6 @@ brew install jadonharsh109/tap/smriti
     <img src="https://raw.githubusercontent.com/jadonharsh109/jadonharsh109/output/snake-dark.svg?v=2" alt="Contribution grid" />
   </picture>
 </p>
-
-<br>
 
 <div align="center">
 
