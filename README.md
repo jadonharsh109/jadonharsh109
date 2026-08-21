@@ -51,6 +51,27 @@ Google Photos you actually miss, with nothing ever leaving your laptop.
 brew install jadonharsh109/tap/smriti
 ```
 
+## Also building — [Advect](https://github.com/jadonharsh109/Advect)
+
+A plain-English prompt in, an **animated GIF of a request flow** out — infrastructure diagrams
+that move, generated and rendered with no cloud API key anywhere in the loop.
+
+- Runs on a **local model** through Ollama — nothing leaves the machine, no per-render cost
+- BM25 retrieval hands the model the nearest hand-tuned pattern to **adapt**, not author blind
+- **Validators and a critic** feed a repair loop — structurally valid but unreadable output gets rejected
+- JSON IR &rarr; lane layout &rarr; animated SVG &rarr; Playwright capture &rarr; ffmpeg, byte-identical under golden tests
+
+<p>
+  <img src="https://img.shields.io/badge/100%25%20local-8B5CF6?style=flat-square" alt="100% local" />
+  <img src="https://img.shields.io/github/stars/jadonharsh109/Advect?style=flat-square&labelColor=0D1117&color=0D1117" alt="Stars" />
+  <img src="https://img.shields.io/github/last-commit/jadonharsh109/Advect?style=flat-square&labelColor=0D1117&color=0D1117" alt="Last commit" />
+  <img src="https://img.shields.io/badge/Ollama-0D1117?style=flat-square&logo=ollama&logoColor=FFFFFF" alt="Ollama" />
+</p>
+
+```sh
+advect prompt "explain how a canary release shifts traffic to a new version"
+```
+
 ## Toolbox
 
 <p>
