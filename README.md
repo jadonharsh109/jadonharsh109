@@ -153,8 +153,6 @@ brew install jadonharsh109/tap/smriti
 <a href="https://www.upwork.com/freelancers/jadonharsh"><img src="https://img.shields.io/badge/Hire%20me%20on%20Upwork-8B5CF6?style=flat-square&logo=upwork&logoColor=white" alt="Hire me on Upwork" /></a>
 <a href="mailto:jadonharsh109.work@gmail.com"><img src="https://img.shields.io/badge/jadonharsh109.work%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="jadonharsh109.work@gmail.com" /></a>
 
-<br><br>
-
 <img src="https://komarev.com/ghpvc/?username=jadonharsh109&label=Profile%20views&color=8B5CF6&style=flat-square" alt="Profile views" />
 
 </div>
