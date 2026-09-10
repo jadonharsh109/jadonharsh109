@@ -2,7 +2,7 @@
 
 <h1>Harshvardhan Singh Jadon</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=620&height=42&lines=DevOps+%26+Platform+Engineer;Kubernetes+%C2%B7+Terraform+%C2%B7+AWS+%C2%B7+Azure;Freelancer+%E2%80%94+I+build+it%2C+and+I+run+it" alt="DevOps &amp; Platform Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=620&height=42&lines=DevOps+Engineer+%C2%B7+Platform+%26+SRE;Kubernetes+%C2%B7+Terraform+%C2%B7+AWS+%C2%B7+Azure;Freelancer+%E2%80%94+I+build+it%2C+and+I+run+it;Open+to+remote+%26+on-site+roles+in+India" alt="DevOps Engineer &middot; Platform &amp; SRE" />
 
 <p>
   <a href="https://jadonharsh.in"><img src="https://img.shields.io/badge/jadonharsh.in-0D1117?style=flat-square&logo=googlechrome&logoColor=8B5CF6" alt="jadonharsh.in" /></a>
@@ -18,17 +18,37 @@
 
 ## About
 
-I'm a **freelance DevOps &amp; Platform Engineer**. I take platforms from an empty cloud account
-to production and then keep them alive — infrastructure, pipelines, the backend services that run
-on top, and the observability that tells you when any of it is lying to you.
+I'm a **DevOps Engineer** working across **platform engineering and site reliability** — 4+ years
+in infrastructure, 3 of them running production Kubernetes (AKS, EKS) on Terraform and GitOps
+across Azure and AWS. I'm currently the sole platform owner for a regulated UAE healthcare
+product, leading its AWS-to-Azure migration; before that, four years at HCLTech running AWS,
+Linux, and Windows infrastructure, identity, and automation for a HIPAA-regulated healthcare
+estate.
 
-I work across several orgs at once, so a given day might be a Terraform module, a Kubernetes
-upgrade, a FastAPI service, or a 3&nbsp;a.m. alert that turned out to be DNS. Right now I'm going
-deeper on **LLM infrastructure and MLOps** — vector stores, embedding pipelines, and getting AI
-systems to behave in production.
+Independent full-time since April 2026, and now looking for a **full-time DevOps / platform
+role** — open to remote work or on-site anywhere in India, available to join immediately.
 
-<sub>AWS Certified Cloud Practitioner &nbsp;·&nbsp; Microsoft SC-900 &nbsp;·&nbsp; Microsoft AZ-900</sub>
+<sub>AWS Certified Cloud Practitioner &nbsp;·&nbsp; Microsoft SC-900 &nbsp;·&nbsp; Microsoft AZ-900 &nbsp;·&nbsp; CKA (in prep)</sub>
 
+## Recent Work
+
+<sub>Client engagements — infrastructure I've owned end to end, most recent first.</sub>
+
+- **iHeal** — regulated UAE healthcare platform &middot; Jun 2026–Present
+  Led an AWS→Azure production migration for health-data residency; architected the Azure landing
+  zone across 8 isolated Terraform stacks; eliminated static credentials platform-wide with
+  workload identity federation.
+- **Howie FlexCo** — GenAI startup, multi-tenant SaaS &middot; Sep 2025–Aug 2026
+  Built the observability stack end to end (Prometheus, Grafana, Loki, Jaeger, 80 alert rules),
+  cutting log ingestion 360&nbsp;GB/month; defined SLIs and alerted on error-budget burn; ran a
+  multi-tenant AKS cluster (7 microservices, 20 GitHub Actions pipelines, 49 releases in 90 days).
+- **eigenKOR** — fintech, two trading products &middot; Mar 2025–Apr 2026
+  Sole DevOps owner — built the AWS estate from scratch in Terraform across 15+ microservices, cut
+  AWS spend 40%, and cut trading order-execution latency 73%.
+
+<sub>Earlier: four years at HCLTech on infrastructure, identity &amp; automation — including a
+HIPAA-regulated healthcare client (Tenet Healthcare), automating 300+ servers, operating AWS for
+80+ production workloads, and administering a 1M+ user hybrid AD/Entra ID estate.</sub>
 
 ## Building — [Smriti · स्मृति](https://github.com/jadonharsh109/smriti.photos)
 
@@ -87,6 +107,9 @@ advect prompt "explain how a canary release shifts traffic to a new version"
   <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
   <img src="https://img.shields.io/badge/Helm-0D1117?style=flat-square&logo=helm&logoColor=0F1689" alt="Helm" />
   <img src="https://img.shields.io/badge/Istio-0D1117?style=flat-square&logo=istio&logoColor=466BB0" alt="Istio" />
+  <img src="https://img.shields.io/badge/Cilium-0D1117?style=flat-square&logo=cilium&logoColor=F8C517" alt="Cilium" />
+  <img src="https://img.shields.io/badge/Calico-0D1117?style=flat-square" alt="Calico" />
+  <img src="https://img.shields.io/badge/Velero-0D1117?style=flat-square" alt="Velero" />
 </p>
 
 <p>
@@ -101,6 +124,8 @@ advect prompt "explain how a canary release shifts traffic to a new version"
   <img src="https://img.shields.io/badge/Argo%20CD-0D1117?style=flat-square&logo=argo&logoColor=EF7B4D" alt="Argo CD" />
   <img src="https://img.shields.io/badge/GitLab%20CI-0D1117?style=flat-square&logo=gitlab&logoColor=FC6D26" alt="GitLab CI" />
   <img src="https://img.shields.io/badge/Jenkins-0D1117?style=flat-square&logo=jenkins&logoColor=D24939" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Backstage-0D1117?style=flat-square&logo=backstage&logoColor=9BF0E1" alt="Backstage" />
+  <img src="https://img.shields.io/badge/Cortex-0D1117?style=flat-square" alt="Cortex" />
 </p>
 
 <p>
@@ -108,12 +133,17 @@ advect prompt "explain how a canary release shifts traffic to a new version"
   <img src="https://img.shields.io/badge/Prometheus-0D1117?style=flat-square&logo=prometheus&logoColor=E6522C" alt="Prometheus" />
   <img src="https://img.shields.io/badge/Grafana-0D1117?style=flat-square&logo=grafana&logoColor=F46800" alt="Grafana" />
   <img src="https://img.shields.io/badge/Loki-0D1117?style=flat-square&logo=grafana&logoColor=F46800" alt="Loki" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-0D1117?style=flat-square&logo=opentelemetry&logoColor=FFFFFF" alt="OpenTelemetry" />
+  <img src="https://img.shields.io/badge/Jaeger-0D1117?style=flat-square&logo=jaeger&logoColor=66CFE3" alt="Jaeger" />
+  <img src="https://img.shields.io/badge/VictoriaMetrics-0D1117?style=flat-square&logo=victoriametrics&logoColor=621773" alt="VictoriaMetrics" />
   <img src="https://img.shields.io/badge/Elastic-0D1117?style=flat-square&logo=elasticsearch&logoColor=005571" alt="Elastic" />
   <img src="https://img.shields.io/badge/Splunk-0D1117?style=flat-square&logo=splunk&logoColor=000000" alt="Splunk" />
+  <img src="https://img.shields.io/badge/Moogsoft-0D1117?style=flat-square" alt="Moogsoft" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/SECURITY-8B5CF6?style=flat-square" alt="SECURITY" />
+  <img src="https://img.shields.io/badge/Entra%20ID-0D1117?style=flat-square" alt="Entra ID" />
   <img src="https://img.shields.io/badge/Keycloak-0D1117?style=flat-square&logo=keycloak&logoColor=4D4D4D" alt="Keycloak" />
   <img src="https://img.shields.io/badge/Trivy-0D1117?style=flat-square&logo=trivy&logoColor=1904DA" alt="Trivy" />
   <img src="https://img.shields.io/badge/SonarQube-0D1117?style=flat-square&logo=sonarqubeserver&logoColor=4E9BCD" alt="SonarQube" />
@@ -137,6 +167,8 @@ advect prompt "explain how a canary release shifts traffic to a new version"
   <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=FF4438" alt="Redis" />
   <img src="https://img.shields.io/badge/Qdrant-0D1117?style=flat-square&logo=qdrant&logoColor=DC244C" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/MinIO-0D1117?style=flat-square&logo=minio&logoColor=C72E49" alt="MinIO" />
+  <img src="https://img.shields.io/badge/Temporal-0D1117?style=flat-square&logo=temporal&logoColor=FFFFFF" alt="Temporal" />
 </p>
 
 ## Contributions
@@ -169,7 +201,7 @@ advect prompt "explain how a canary release shifts traffic to a new version"
 
 <div align="center">
 
-**Open to freelance work** — platform builds, cloud migrations, CI/CD, and keeping production boring.
+**Open to full-time DevOps / platform engineering roles** — remote or on-site, anywhere in India. Available to join immediately, and open to select freelance platform builds via Upwork.
 
 <a href="https://www.upwork.com/freelancers/jadonharsh"><img src="https://img.shields.io/badge/Hire%20me%20on%20Upwork-8B5CF6?style=flat-square&logo=upwork&logoColor=white" alt="Hire me on Upwork" /></a>
 <a href="mailto:jadonharsh109.work@gmail.com"><img src="https://img.shields.io/badge/jadonharsh109.work%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="jadonharsh109.work@gmail.com" /></a>
